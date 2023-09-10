@@ -1,6 +1,4 @@
-# Video tutorial
 
-    https://youtu.be/o6XK4L1z5zI
 
 # Reference
 
